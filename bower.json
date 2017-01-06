@@ -1,0 +1,19 @@
+{
+  "name": "Fusion-nouvel-an",
+  "homepage": "https://github.com/loicpennequin/Fusion-nouvel-an",
+  "authors": [
+    "Selim Chiki <selimchiki@yahoo.fr>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}

@@ -1,0 +1,7 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Users/selimpopschool/GitHub/Fusion-nouvel-an/js/jquery-2.1.1.js",
+        "/Users/selimpopschool/GitHub/Fusion-nouvel-an/page2.html",
+        "/Users/selimpopschool/GitHub/Fusion-nouvel-an/bower_components/jquery-ui-1.12.1.custom/jquery-ui.min.js"
+    ]
+}
