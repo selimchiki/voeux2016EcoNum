@@ -1,0 +1,674 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="960" y="540" width="1920px"
+	 height="1080px" viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080" xml:space="preserve">
+
+	 			<!-- background color -->
+
+
+<g id="BG">
+	<rect x="775" y="303" fill="#630B0A" width="370" height="475"/>
+			<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="0 -2000"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+</g>
+
+
+				<!-- Grande école du numérique texte -->
+
+<g id="GEN">
+	<g>
+		<path fill="#FFFFFF" d="M847.372,668.942c-1.637-1.515-4.074-2.356-6.198-2.356c-5.223,0-8.392,3.836-8.392,8.682
+			c0,3.868,2.333,7.872,8.392,7.872c1.916,0,3.587-0.404,5.501-1.884v-4.171h-6.233v-3.971h10.447v9.925
+			c-2.403,2.658-5.432,4.239-9.715,4.239c-9.158,0-12.884-5.82-12.884-12.011c0-6.628,4.283-12.753,12.884-12.753
+			c3.273,0,6.546,1.213,9.053,3.601L847.372,668.942z"/>
+		<path fill="#FFFFFF" d="M875.921,686.74h-5.467l-7.103-7.874h-4.423v7.874h-4.596v-23.585c3.865,0,7.73,0.034,11.595,0.034
+			c5.746,0.033,8.775,3.734,8.775,7.804c0,3.231-1.532,6.494-6.163,7.403l7.382,8.041V686.74z M858.928,667.326v7.537h6.999
+			c2.925,0,4.178-1.884,4.178-3.768s-1.288-3.77-4.178-3.77H858.928z"/>
+		<path fill="#FFFFFF" d="M895.103,682.299h-12.744l-2.089,4.441h-4.979l10.934-23.551h5.014l10.934,23.551h-5.015L895.103,682.299z
+			 M888.73,668.135l-4.526,10.026h9.054L888.73,668.135z"/>
+		<path fill="#FFFFFF" d="M920.274,663.155h4.596v23.585h-2.856v0.033l-12.813-15.914v15.881h-4.597v-23.551h3.726l11.944,14.602
+			V663.155z"/>
+		<path fill="#FFFFFF" d="M950.529,674.763c0.104,5.954-3.656,11.978-12.187,11.978c-2.995,0-6.581,0-9.576,0v-23.551
+			c2.995,0,6.581,0,9.576,0C946.699,663.189,950.425,668.942,950.529,674.763z M933.328,682.467h5.014
+			c5.537,0,7.73-3.902,7.625-7.738c-0.105-3.668-2.333-7.334-7.625-7.334h-5.014V682.467z"/>
+		<path fill="#FFFFFF" d="M971.73,686.74h-18.246c0-7.839,0-15.712,0-23.551h18.246v4.306h-13.684v5.417h13.197v4.138h-13.197v5.316
+			h13.684V686.74z"/>
+		<path fill="#FFFFFF" d="M1000.488,686.74h-18.246c0-7.839,0-15.712,0-23.551h18.246v4.306h-13.686v5.417h13.198v4.138h-13.198
+			v5.316h13.686V686.74z M997.11,656.021h-5.015l-2.576,4.577v0.201h3.761l3.83-4.608V656.021z"/>
+		<path fill="#FFFFFF" d="M1025.348,683.779c-2.508,2.388-5.746,3.499-9.264,3.499c-9.054,0-12.883-6.022-12.918-12.146
+			c-0.035-6.157,4.109-12.415,12.918-12.415c3.309,0,6.442,1.212,8.949,3.601l-3.064,2.859c-1.601-1.514-3.76-2.22-5.885-2.22
+			c-5.884,0-8.427,4.238-8.392,8.175c0.036,3.903,2.367,7.975,8.392,7.975c2.125,0,4.527-0.842,6.129-2.39L1025.348,683.779z"/>
+		<path fill="#FFFFFF" d="M1051.876,675.1c-0.07,6.089-3.935,12.179-12.501,12.179s-12.535-5.956-12.535-12.146
+			c0-6.189,4.109-12.415,12.535-12.415C1047.767,662.717,1051.945,668.942,1051.876,675.1z M1031.366,675.199
+			c0.104,3.869,2.264,8.008,8.009,8.008s7.904-4.172,7.974-8.041c0.07-3.971-2.229-8.411-7.974-8.411
+			S1031.262,671.229,1031.366,675.199z"/>
+		<path fill="#FFFFFF" d="M1059.845,663.189v19.445h12.536v4.105h-17.133v-23.551H1059.845z"/>
+		<path fill="#FFFFFF" d="M1093.792,686.74h-18.246c0-7.839,0-15.712,0-23.551h18.246v4.306h-13.685v5.417h13.197v4.138h-13.197
+			v5.316h13.685V686.74z"/>
+		<path fill="#FFFFFF" d="M850.715,715.13c0.104,5.954-3.656,11.976-12.187,11.976c-2.995,0-6.582,0-9.576,0v-23.55
+			c2.995,0,6.582,0,9.576,0C846.885,703.556,850.61,709.309,850.715,715.13z M833.513,722.834h5.015
+			c5.536,0,7.729-3.903,7.625-7.739c-0.104-3.667-2.333-7.334-7.625-7.334h-5.015V722.834z"/>
+		<path fill="#FFFFFF" d="M875.12,703.589v13.491c0,6.964-4.421,10.53-10.55,10.53c-5.851,0-10.83-3.432-10.83-10.53v-13.491h4.562
+			v13.491c0,4.239,2.507,6.493,6.303,6.493c3.795,0,5.954-2.456,5.954-6.493v-13.491H875.12z"/>
+		<path fill="#FFFFFF" d="M902.658,703.522h4.596v23.583h-2.854v0.034l-12.814-15.913v15.879h-4.597v-23.55h3.726l11.944,14.601
+			V703.522z"/>
+		<path fill="#FFFFFF" d="M932.844,703.589v13.491c0,6.964-4.422,10.53-10.551,10.53c-5.85,0-10.83-3.432-10.83-10.53v-13.491h4.562
+			v13.491c0,4.239,2.508,6.493,6.302,6.493c3.795,0,5.955-2.456,5.955-6.493v-13.491H932.844z"/>
+		<path fill="#FFFFFF" d="M958.572,710.049l-7.939,10.228h-0.905l-7.765-10.262v17.125h-4.597v-23.551h5.293l7.626,10.128
+			l7.625-10.128h5.259v23.551h-4.597V710.049z"/>
+		<path fill="#FFFFFF" d="M985.657,727.105h-18.245c0-7.838,0-15.711,0-23.55h18.245v4.306h-13.684v5.417h13.196v4.139h-13.196
+			v5.315h13.684V727.105z M982.28,696.389h-5.014l-2.577,4.576v0.201h3.761l3.83-4.608V696.389z"/>
+		<path fill="#FFFFFF" d="M1010.656,727.105h-5.467l-7.104-7.872h-4.422v7.872h-4.597v-23.583c3.865,0,7.73,0.033,11.596,0.033
+			c5.745,0.033,8.774,3.733,8.774,7.805c0,3.229-1.532,6.493-6.163,7.401l7.383,8.042V727.105z M993.663,707.693v7.536h6.999
+			c2.925,0,4.178-1.884,4.178-3.768s-1.288-3.769-4.178-3.769H993.663z"/>
+		<path fill="#FFFFFF" d="M1012.566,727.105v-23.55h4.563v23.55H1012.566z"/>
+		<path fill="#FFFFFF" d="M1045.332,715.027c0.034,2.691-0.697,5.484-2.264,7.672l2.891,2.758l-3.239,3.129l-2.959-2.825
+			c-1.846,1.143-4.18,1.749-6.931,1.749c-8.669,0-12.5-6.089-12.534-12.213c-0.036-6.156,3.969-12.314,12.534-12.314
+			C1041.396,702.982,1045.227,708.972,1045.332,715.027z M1024.822,715.398c0.069,3.869,2.716,8.007,8.008,8.007
+			c5.502,0,8.148-4.475,7.975-8.513c-0.174-3.802-2.229-7.905-7.975-7.905C1027.085,706.987,1024.752,711.428,1024.822,715.398z"/>
+		<path fill="#FFFFFF" d="M1070.051,703.589v13.491c0,6.964-4.422,10.53-10.551,10.53c-5.851,0-10.829-3.432-10.829-10.53v-13.491
+			h4.562v13.491c0,4.239,2.507,6.493,6.302,6.493s5.954-2.456,5.954-6.493v-13.491H1070.051z"/>
+		<path fill="#FFFFFF" d="M1092.714,727.105h-18.245c0-7.838,0-15.711,0-23.55h18.245v4.306h-13.685v5.417h13.197v4.139h-13.197
+			v5.315h13.685V727.105z"/>
+	</g>
+</g>
+
+				<!-- triangle généraux -->
+
+
+<g id="triangles">
+<g>
+<g>
+<!-- 1  -->
+
+	<g>
+		<polygon fill="#F0E2E1" points="894,428.302 894,428.414 894,428.32 826.865,362 827,362 827,429 894,429 	">
+
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-1500 -50"
+							  				to="0 0"
+							  				dur="2.4s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+		
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="30 400 540"
+							  				to="0 980 540"
+							  				dur="2.3s"
+							  				reapeatCount="indefinite"/>
+
+	</g>	
+
+<!-- 2 -->
+
+	<g>
+		<polygon fill="#8E4743" points="894,429.201 894,429.088 894,429.201 894,429 827,429 827,496 828.07,496 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-700 -50"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="10 -1400 -560"
+							  				to="0 -500 120"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 3  -->
+
+	<g>
+
+		<polygon fill="#9E5D5D" points="894,561.355 894,561.072 827.914,495.723 828.07,496 827,496 827,563 894,563 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-1700 650"
+							  				to="0 0"
+							  				dur="2.5s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="10 -1100 -550"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 4  -->
+
+	<g>
+
+			<polygon fill="#DCC6C2" points="894,563 827,563 827,627.933 894,562.366  	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-2700 650"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-20 -500 0"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+	
+<!-- 5  -->
+
+	<g>
+
+			<polygon fill="#CDABA7" points="894,428.302 894,362 826.865,362 894,428.32 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="100 -1500"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-10 1000 -540"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 6  -->
+
+	<g>
+
+			<path fill="#9E5D5A" d="M893.661,429h0.316h0.67L960,362.624V362h-66v66.302L893.661,429z M893.698,428.252v0.05l-0.05-0.05
+		H893.698z">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-400 -1500"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</path>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="45 -100 -240"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 7  -->
+
+	<g>
+
+			<polygon fill="#EEE2E1" points="1025.903,429 1026,429 1026,429 1026,429 1026,428.202 1026,362 960,362 960,362.624 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="10 -600"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="25 900 -900"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 8  -->
+
+	<g>
+
+			<polygon fill="#8E4743" points="1093,362.658 1093,362 1026,362 1026,428.202 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="10 -800"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="35 1000 900"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 9  -->
+
+	<g>
+
+			<polygon fill="#BD8F8A" points="827,627.933 827,628 894,628 894,562.366 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="1000 900"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="35 300 300"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 10  -->
+
+	<g>
+
+			<polygon fill="#9E5D5C" points="894.031,563 893.648,563 894,562.366 894,628 960,628 960,627.648 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="1150 980"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="20 300 350"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 11  -->
+
+	<g>
+
+			<polygon fill="#CEAAA7" points="1026.519,563 960,627.648 960,628 1026,628 1026,563 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="10 600"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-25 1400 -900"
+							  				to="0 0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 12  -->
+
+	<g>
+
+			<polygon fill="#EDE3E1" points="1027.27,563 1026.802,563 1026,563 1026,628 1093,628 1093,627.336 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="300 800"
+							  				to="0 0"
+							  				dur="2s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-30 1600 1500"
+							  				to="0 200 0"
+							  				dur="2.4s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 13  -->
+
+	<g>
+
+			<path fill="#F0E1E1" d="M1026.783,429h0.019l-0.017-0.028l0.017,0.028H1093v-66.342l-66.152,65.751L1026.783,429z
+		 M1026.852,428.202v0.05h-0.05L1026.852,428.202z">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="1800 500"
+							  				to="0 0"
+							  				dur="2.025s"
+							  				reapeatCount="indefinite"/>
+		</path>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-22 500 240"
+							  				to="0 0 150"
+							  				dur="2.5s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 14  -->
+
+	<g>
+
+			<polygon fill="#8E4743" points="1026.688,429 1026.688,429 1026.802,429 1026,428.864 1026,429.201 1092.479,496 1093,496 
+		1093,429 1026.802,429 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="2300 800"
+							  				to="0 0"
+							  				dur="2.325s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-20 320 400"
+							  				to="0 200 400"
+							  				dur="2.3s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 15  -->
+
+	<g>
+
+			<polygon fill="#CEAAA7" points="1026,561.234 1026,561.072 1026,561.405 1026,561.455 1026.802,562 1026,562 1026,561.455 
+		1027.27,563 1093,563 1093,495.418 1026,561.072 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="1900 600"
+							  				to="0 0"
+							  				dur="2.225s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-60 1600 -900"
+							  				to="0 120 500"
+							  				dur="2.2s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- 16  -->
+
+	<g>
+
+			<polygon fill="#AC7671" points="1093,627.336 1093,563 1027.27,563 	">
+				<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="2000 900"
+							  				to="0 0"
+							  				dur="2.125s"
+							  				reapeatCount="indefinite"/>
+		</polygon>
+
+<!-- trinagle small groupe rotate -->
+
+		<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-65 920 -400"
+							  				to="0 50 1200"
+							  				dur="2.1s"
+							  				reapeatCount="indefinite"/>	
+	</g>
+
+<!-- general rotate -->
+	<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="rotate"
+							  				from="-15 960 540"
+							  				to="0 960 540"
+							  				begin="-1s"
+							  				dur="5s"
+							  				reapeatCount="indefinite"/>
+
+</g>
+	
+</g>
+
+
+																													<!--	Petit carré	-->
+
+
+<!--left  point-->
+	<polygon fill="#DDC5C4" points="894,429.201 828.07,496 894,496 	">
+			<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-1540 0"
+							  				to="0 0"
+							  				dur="1s"
+							  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#E1D5D0" points="918,458.989 918,496 947.496,496 	">
+					<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-1640 80"
+							  				to="0 0"
+							  				dur="0.5s"
+							  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#F0E3E2" points="828.07,496 827.914,495.723 894,561.072 894,496 	">
+					<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-1640 80"
+							  				to="0 0"
+							  				dur="1.3s"
+							  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#B78B86" points="947.496,496 918,496 918,536.838 952.73,502.395 	">
+					<animateTransform attributeName="transform"
+							  				attributeType="XML"
+							  				type="translate"
+							  				from="-1560 80"
+							  				to="0 0"
+							  				dur="0.6s"
+							  				reapeatCount="indefinite"/>
+	</polygon>
+
+<!--top  point-->
+	<polygon fill="#FFFFFF" points="923.154,429 960,429 960,362.624 894.647,429 918.319,429 	">
+					<animateTransform attributeName="transform"
+						  				attributeType="XML"
+						  				type="translate"
+						  				from="0 -880"
+						  				to="0 0"
+						  				dur="1.3s"
+						  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#AC7673" points="1001.68,429 1025.903,429 960,362.624 960,429 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="50 -880"
+				  				to="0 0"
+				  				dur="1.5s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#DFC1BD" points="923.154,429 960,474.954 960,429 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="50 -880"
+				  				to="0 0"
+				  				dur="0.5s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#9E5D5A" points="1002,453.133 1002,429 960,429 960,474.954 968.949,485.997 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="50 -880"
+				  				to="0 0"
+				  				dur="0.6s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+<!--bottom point-->
+	<polygon fill="#DEC5C4" points="918,536.967 918,563 960,563 960,510.928 952.981,502.381 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="-50 880"
+				  				to="0 0"
+				  				dur="0.5s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#985D5A" points="1001.015,563 960,510.928 960,563 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="-50 970"
+				  				to="0 0"
+				  				dur="0.7s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#BC908C" points="918.319,563 894.031,563 960,627.648 960,563 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="-50 880"
+				  				to="0 0"
+				  				dur="1.7s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#EEE2E1" points="1001.015,563 960,563 960,627.648 1026.519,563 1001.68,563 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="70 880"
+				  				to="0 0"
+				  				dur="1.5s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+<!--right point-->
+	<polygon fill="#C8A3A0" points="976.229,496 1002,496 1002,453.312 968.967,486.345 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="1800 -50"
+				  				to="0 0"
+				  				dur="0.7s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#EAE5E1" points="1092.479,496 1026,429.201 1026,496 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="1800 50"
+				  				to="0 0"
+				  				dur="1.7s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+	
+	<polygon fill="#E1D5D0" points="1002,527.324 1002,496 976.229,496 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="1800 50"
+				  				to="0 0"
+				  				dur="0.8s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+
+	<polygon fill="#AD7676" points="1026,496 1026,561.072 1093,495.418 1093,495.39 1092.479,496 	">
+					<animateTransform attributeName="transform"
+				  				attributeType="XML"
+				  				type="translate"
+				  				from="1820 -50"
+				  				to="0 0"
+				  				dur="1.8s"
+				  				reapeatCount="indefinite"/>
+	</polygon>
+	
+</g>
+</svg>
