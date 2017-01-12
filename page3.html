@@ -7,17 +7,27 @@
     <link rel="stylesheet" type="text/css" href="css/page3.css" media="screen"/>
     <link rel="stylesheet" type="text/css" href="css/svg.css"/>
   <script>
-    
-
-
-
-
      $(function() {
         $(".vignets").addClass("load");
     });
-    
-
 </script>
+      <script type="text/javascript">
+        function playPause() {
+            var myVideo = document.getElementsByTagName('video')[0];
+            if (myVideo.paused)
+                myVideo.play();
+            else
+                myVideo.pause();
+        }
+       function makeBig() {
+           var myVideo = document.getElementsByTagName('video')[0];
+           myVideo.height = myVideo.videoHeight * 2;
+       }
+       function makeNormal() {
+           var myVideo = document.getElementsByTagName('video')[0];
+           myVideo.height = myVideo.videoHeight;
+       }
+    </script>
   </head>
   <body class="vignets">
   	<div class="page3">
