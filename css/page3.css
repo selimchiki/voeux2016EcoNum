@@ -31,13 +31,20 @@ video {
 	
 }
 
+@media (max-width : 420px){
+    footer{
+        display: none;
+    }
+    svg{
+        display: none;
+    }
+} 
+
 @keyframes anim {
     from {}
     50% {transform: none;}
     to {transform: translate3d(0, -100%, 0); }
 }
-
-
 
 
 .vignets {
