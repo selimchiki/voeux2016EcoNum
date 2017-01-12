@@ -1,7 +1,7 @@
 $(document).ready(function() {
 	if (window.matchMedia("(max-width: 420px)").matches) {
-		$('.footer').hide();
-		$('svg').hide();
+		$('.footer').css("display", "none");
+		$('svg').css("display", "none");
         function nouvelPage() {
 			$('html').load("page4.html");
 		}
