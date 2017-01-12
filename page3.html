@@ -11,28 +11,12 @@
         $(".vignets").addClass("load");
     });
 </script>
-      <script type="text/javascript">
-        function playPause() {
-            var myVideo = document.getElementsByTagName('video')[0];
-            if (myVideo.paused)
-                myVideo.play();
-            else
-                myVideo.pause();
-        }
-       function makeBig() {
-           var myVideo = document.getElementsByTagName('video')[0];
-           myVideo.height = myVideo.videoHeight * 2;
-       }
-       function makeNormal() {
-           var myVideo = document.getElementsByTagName('video')[0];
-           myVideo.height = myVideo.videoHeight;
-       }
-    </script>
+      
   </head>
   <body class="vignets">
   	<div class="page3">
 	  	<img id="image" src="media/meilleursvoeuxtrans.svg">
-		<video width="720" height="360" preload="auto" autoplay="true" >
+		<video width="720" height="360" preload="auto" value="play" >
 			<source src="media/hey.mp4" type="video/mp4">
 			<source src="media/hey.ogv" type="video/ogv">
 			<source src="media/hey.webm" type="video/webm">
