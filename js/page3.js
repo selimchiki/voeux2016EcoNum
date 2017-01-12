@@ -1,5 +1,5 @@
 $(document).ready(function() {
-	if (window.matchMedia("(min-width: 600px)").matches) {
+	if (window.matchMedia("(min-width: 420px)").matches) {
 		$('.footer').hide();
 		$('svg').hide();
 		function showSVG(){
@@ -12,6 +12,7 @@ $(document).ready(function() {
 				width : "40%"
 			}, 1500);
 		}
+        setTimeout(showSVG, 5500);
 	} else {
 		$('.footer').hide();
 		$('svg').hide();
@@ -20,5 +21,4 @@ $(document).ready(function() {
 		}
 		setTimeout(nouvelPage,33000);
 	}
-	setTimeout(showSVG, 5500);
 });
