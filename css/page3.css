@@ -93,10 +93,3 @@ video {
 .vignets.load {
     opacity: 1;
 }
-
-@media (min-width: 767px){
-	#network{
-		width: auto;
-		height: auto;
-	}
-}
