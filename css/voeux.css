@@ -6,13 +6,8 @@ html, body {
 	overflow: hidden;
 }
 
-.logopop-img {
-	height:100%;
-	width: 100%;
-	text-align: center;
-	animation-name: bg-logo;
-	animation-duration: 5s;
-	animation-iteration-count: infinite;
+.logoEcole {
+	max-width: 100%;
 }
 
 @keyframes bg-logo {

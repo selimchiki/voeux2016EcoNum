@@ -1,31 +1,32 @@
-
-		
 /*placements logo pop et animation*/
 
 		
-				.corps {
-					fill: white;
-				}
+.corps {
+	fill: white;
+}
 
-				.fill_log {
-					
-					fill: #F7931E;
-					animation-duration: 5s;
-					animation-name: lettercolorslide;
-					animation-iteration-count: infinite;
-				}
-				
-				
+.fill_log {
+
+	fill: #F7931E;
+	animation-duration: 5s;
+	animation-name: lettercolorslide;
+	animation-iteration-count: infinite;
+}
 		
-				
-/*animation*/
+@keyframes lettercolorslide {
+	 0%{fill: #CA16FF;}
+	 25%{fill: #D9E021;}
+	 50%{fill: #00ADA5;}
+	 75%{fill: #F7931E;}
+	 100%{fill: #CA16FF;}
+}
 
-				
-				@keyframes lettercolorslide {
-					 0%{fill: #CA16FF;}
-					 25%{fill: #D9E021;}
-					 50%{fill: #00ADA5;}
-					 75%{fill: #F7931E;}
-					 100%{fill: #CA16FF;}
-				}
-
+.logopop-img{
+	max-width: 100%;
+	max-height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 20%;
+	height: auto;
+}

@@ -12,7 +12,12 @@ background-color: black;
 	left: 0px;
 	animation: anim;
 	animation-duration: 5s;
-	animation-fill-mode: forwards;
+	animation-fill-mode: forwards;	
+}
+
+#network{
+	width: 5%;
+	text-align: center;
 }
 
 video {
@@ -87,4 +92,11 @@ video {
 }
 .vignets.load {
     opacity: 1;
+}
+
+@media (min-width: 767px){
+	#network{
+		width: auto;
+		height: auto;
+	}
 }
